@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623635508374",
+    "project_id": "esp8266-449f7",
+    "storage_bucket": "esp8266-449f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623635508374:android:ba08f8a47a41736d1966b7",
+        "android_client_info": {
+          "package_name": "com.lapchong.receiver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdiQ1xgn-MQWvT-akkWiZ-elGK8SCyv7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
